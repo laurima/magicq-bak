@@ -1,0 +1,14 @@
+# Other folders on directory
+audio/
+bitmaps/
+defaults.set
+demos/
+fx/
+heads/
+icons/
+media/
+movies/
+
+# Temp files
+.shw
+.sbk
