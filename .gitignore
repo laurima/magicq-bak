@@ -12,3 +12,4 @@ movies/
 # Temp files
 .shw
 .sbk
+.DS_store
